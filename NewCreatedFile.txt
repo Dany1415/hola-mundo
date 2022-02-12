@@ -1,0 +1,2 @@
+Este es un nuevo archivo creado en la rama principal. 
+Se debe crear como: nombre.extension
